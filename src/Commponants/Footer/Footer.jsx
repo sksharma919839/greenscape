@@ -12,7 +12,7 @@ const footerLinks = [
   {
     id: 1,
     name: "Home",
-    Link: "/",
+    Link: "/greenscape",
   },
   {
     id: 2,
@@ -57,25 +57,25 @@ function Footer() {
               <p className="ml-[15px]">demo@mail.com</p>
             </div>
             <div className="text-[#ffffff] flex items-center pb-[30px]">
-              <Link to="/">
+              <Link to="/greenscape">
                 <FaFacebookF
                   size={25}
                   className="mx-[5px] hover:text-[#85A900] duration-700 transition-all"
                 />
               </Link>
-              <Link to="/">
+              <Link to="/greenscape">
                 <FaTwitter
                   size={25}
                   className="mx-[5px] hover:text-[#85A900] duration-700 transition-all"
                 />
               </Link>
-              <Link to="/">
+              <Link to="/greenscape">
                 <FaLinkedinIn
                   size={25}
                   className="mx-[5px] hover:text-[#85A900] duration-700 transition-all"
                 />
               </Link>
-              <Link to="/">
+              <Link to="/greenscape">
                 <FaInstagram
                   size={25}
                   className="mx-[5px] hover:text-[#85A900] duration-700 transition-all"

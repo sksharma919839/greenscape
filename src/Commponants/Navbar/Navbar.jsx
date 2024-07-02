@@ -7,7 +7,7 @@ const navLinks = [
   {
     id: 1,
     name: "Home",
-    link: "/",
+    link: "/greenscape",
   },
   {
     id: 2,
@@ -40,7 +40,7 @@ function Navbar() {
     <>
       <div className="navbar-bg">
         <div className="flex items-center justify-between sm:px-[80px] px-[30px]">
-          <Link to="/">
+          <Link to="/greenscape">
             <img src={Logo} className="w-[76px] h-[40px] my-[30px]" alt="" />
           </Link>
           <ul className="hidden lg:flex justify-evenly">

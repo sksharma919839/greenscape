@@ -9,7 +9,7 @@ import Contact from "./Page/Contact";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/greenscape",
       element: <Home />,
     },
     {
