@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/greenscape/static/css/main.76bcddb6.css",
+    "main.js": "/greenscape/static/js/main.c811ed84.js",
+    "static/js/453.674acb3e.chunk.js": "/greenscape/static/js/453.674acb3e.chunk.js",
+    "static/media/banner-bg.png": "/greenscape/static/media/banner-bg.48e9e755d90e10450f57.png",
+    "static/media/about-bg.png": "/greenscape/static/media/about-bg.f3ab17c3c2627ed69e4c.png",
+    "static/media/service-bg.png": "/greenscape/static/media/service-bg.bf291d69f286de0d37b3.png",
+    "static/media/client-img.png": "/greenscape/static/media/client-img.d4ee3560a05955b49c2c.png",
+    "index.html": "/greenscape/index.html",
+    "main.76bcddb6.css.map": "/greenscape/static/css/main.76bcddb6.css.map",
+    "main.c811ed84.js.map": "/greenscape/static/js/main.c811ed84.js.map",
+    "453.674acb3e.chunk.js.map": "/greenscape/static/js/453.674acb3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76bcddb6.css",
+    "static/js/main.c811ed84.js"
+  ]
+}
